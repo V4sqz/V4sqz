@@ -1,7 +1,7 @@
 ### Hello i'm Carlos Vasquez
 
 
-- 🌱 I’m currently learning CyberSecurity
+- 🌱 I’m currently learning c++
 - 😄 Pronouns: He/His
 
 <div align="center">
