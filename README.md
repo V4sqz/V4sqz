@@ -1,7 +1,7 @@
 ### Hello i'm Carlos Vasquez
 
 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: He/His
 
 <div align="center">
